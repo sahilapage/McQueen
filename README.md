@@ -10,6 +10,19 @@ End-to-end self-driving stack for a 1/10-scale RC car. A Jetson Nano captures th
 
 </div>
 
+## Build
+
+<table>
+<tr>
+<td width="50%" align="center"><img src="assets/mcqueen_build_1.jpg" alt="Chassis opened up between two laptops during servo tests" width="100%"></td>
+<td width="50%" align="center"><img src="assets/mcqueen_build_2.jpg" alt="Chassis with webcam, Wi-Fi antenna and hand-soldered perfboard" width="100%"></td>
+</tr>
+<tr>
+<td align="center"><sub>Day one: body off, servo sweeps.</sub></td>
+<td align="center"><sub>Wired up: camera, Jetson Nano, Wi-Fi antenna, perfboard.</sub></td>
+</tr>
+</table>
+
 ## Architecture
 
 ```
